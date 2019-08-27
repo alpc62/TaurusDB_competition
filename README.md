@@ -35,7 +35,7 @@ Compass
 
 
 [1]: 初赛/kvstore/src/kv_store.cc
-[2]: 复赛/kvstore_se/src/include/kv_define.cc
+[2]: 复赛/kvstore_se/src/include/kv_define.h
 [3]: 复赛/kvstore_se/src/kv_store/kv_store.c
 [4]: 复赛/kvstore_se/src/kv_service/kv_service.cc
 [5]: 决赛/TaurusDB性能挑战赛Compass战队答辩.pptx
