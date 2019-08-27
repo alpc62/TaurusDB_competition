@@ -1,0 +1,9 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+PROJECT(kvstore)
+
+SET(CMAKE_CXX_FLAGS "-std=c++11")
+MESSAGE("root project name: ${PROJECT_NAME}")
+MESSAGE("root source dir: ${PROJECT_SOURCE_DIR}")
+
+ADD_SUBDIRECTORY(src)
+
