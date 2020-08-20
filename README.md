@@ -1,5 +1,5 @@
 # 华为云TaurusDB性能挑战赛
-<https://developer.huaweicloud.com/competition/competitions/1000001898/>
+<https://competition.huaweicloud.com/information/1000001898/introduction?track=105>
 
 ## 队名
 Compass
@@ -25,7 +25,7 @@ Compass
 [TaurusDB性能挑战赛Compass战队答辩.pptx][5]
 
 ## 成绩
-<https://developer.huaweicloud.com/competition/competitions/1000001898/ranking>
+<https://competition.huaweicloud.com/information/1000001898/ranking?track=105>
 
 |STAGE|RANK|
 |----|----|
